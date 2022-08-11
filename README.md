@@ -1,4 +1,4 @@
-# Atividade 5 - PB Compass - DevSecOps **💻**
+# Atividade do Grupo 5 - PB Compass - DevSecOps **💻**
 
 ![UOLCompass](https://user-images.githubusercontent.com/63206031/184054741-3c1f3e23-1595-43e8-bba8-46c76acb50fd.png)
 
@@ -157,7 +157,9 @@ kubectl get pvc
 kubectl get service
 ```
 
-Após a confirmação das informações, testamos o serviço pelo navegador utilizando o “localhost:80” e conseguimos acessar a página do Wordpress. 
+Após a confirmação das informações, testamos o serviço pelo navegador utilizando o “localhost:80” (Informação extraída das informações finais de "IP External" no último comando citado) conseguimos acessar a página do Wordpress. 
 
 ![ap3](https://user-images.githubusercontent.com/63206031/184055162-f906f13d-8088-4710-8dc8-396500eb68fb.jpeg)
+
+Ressaltando que todo processo realizado pelo Docker Desktop foi realizado ao mesmo tempo em uma máquina Linux, constando o seu principal diferencial no processo de instalação do MiniKube e Kubectl. 
 
