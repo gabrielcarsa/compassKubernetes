@@ -1,5 +1,8 @@
 # Atividade 5 - PB Compass - DevSecOps **💻**
 
+![UOLCompass](https://user-images.githubusercontent.com/63206031/184054741-3c1f3e23-1595-43e8-bba8-46c76acb50fd.png)
+
+
 ## **Documentação de atividade**
 
 ### **Integrantes:**
@@ -10,6 +13,8 @@
 - **Emerson Gabriel da Silva Guimarães**
 
 ## Instruções da Atividade:
+
+![ap](https://user-images.githubusercontent.com/63206031/184054831-cf7df894-b123-402d-a8fd-ec818a979051.jpeg)
 
 
 ## 1 - Instalação do Docker for Windows
@@ -29,7 +34,7 @@ Extensão YAML pela Red Hat: [https://marketplace.visualstudio.com/items?itemNam
 
 ### ATENÇÃO!
 
-
+![ap2](https://user-images.githubusercontent.com/63206031/184054886-04af0437-ce80-40b5-b577-3bcc785ae7d9.jpeg)
 *Imagem retirada do Fórum da Alura*
 
 O que aconteceu em um dos eventos de instalação do Docker Desktop foi após a reinicialização do Sistema, constar 2 popups informando erros de Instalação do WSL 2. 
@@ -76,6 +81,7 @@ kubectl get namespace
 ```
 
 O resultado será assim:
+
 
 ```docker
 Output
@@ -151,4 +157,5 @@ kubectl get service
 ```
 
 Após a confirmação das informações, testamos o serviço pelo navegador utilizando o “localhost:80” e conseguimos acessar a página do Wordpress. 
+![ap3](https://user-images.githubusercontent.com/63206031/184055162-f906f13d-8088-4710-8dc8-396500eb68fb.jpeg)
 
