@@ -2,4 +2,7 @@ secretGenerator:
 - name: mysql-pass
   literals:
   - password=12#grupo5Compass2022ç
+resources:
+  - mysql-deployment.yaml  
+  - wordpress-deployment.yaml 
 
