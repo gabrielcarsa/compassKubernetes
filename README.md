@@ -35,6 +35,7 @@ Extensão YAML pela Red Hat: [https://marketplace.visualstudio.com/items?itemNam
 ### ATENÇÃO!
 
 ![ap2](https://user-images.githubusercontent.com/63206031/184054886-04af0437-ce80-40b5-b577-3bcc785ae7d9.jpeg)
+
 *Imagem retirada do Fórum da Alura*
 
 O que aconteceu em um dos eventos de instalação do Docker Desktop foi após a reinicialização do Sistema, constar 2 popups informando erros de Instalação do WSL 2. 
