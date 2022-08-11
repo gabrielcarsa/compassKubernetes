@@ -158,5 +158,6 @@ kubectl get service
 ```
 
 Após a confirmação das informações, testamos o serviço pelo navegador utilizando o “localhost:80” e conseguimos acessar a página do Wordpress. 
+
 ![ap3](https://user-images.githubusercontent.com/63206031/184055162-f906f13d-8088-4710-8dc8-396500eb68fb.jpeg)
 
